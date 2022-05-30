@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mybatisplus_quickstart/mybatisplus_quickstart/mybatisplus_quickstart.iml" filepath="$PROJECT_DIR$/../mybatisplus_quickstart/mybatisplus_quickstart/mybatisplus_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_ssm/springmvc_ssm.iml" filepath="$PROJECT_DIR$/springmvc_ssm/springmvc_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../复制ssm/复制ssm.iml" filepath="$PROJECT_DIR$/../复制ssm/复制ssm.iml" />
+    </modules>
+  </component>
+</project>

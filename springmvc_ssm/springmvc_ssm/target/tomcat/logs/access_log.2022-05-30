@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:07 +0800] "GET /springmvc_ssm HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:07 +0800] "GET /springmvc_ssm/ HTTP/1.1" 200 52 http-bio-8080-exec-3 29
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:20 +0800] "GET /springmvc_ssm/pages/book.html HTTP/1.1" 404 949 http-bio-8080-exec-4 11
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:28 +0800] "GET /springmvc_ssm/pages/books.html HTTP/1.1" 200 10821 http-bio-8080-exec-5 8
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:28 +0800] "GET /springmvc_ssm/plugins/elementui/index.css HTTP/1.1" 200 198714 http-bio-8080-exec-6 6
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:28 +0800] "GET /springmvc_ssm/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31008 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:28 +0800] "GET /springmvc_ssm/css/style.css HTTP/1.1" 200 11169 http-bio-8080-exec-7 5
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:28 +0800] "GET /springmvc_ssm/js/axios-0.18.0.js HTTP/1.1" 200 12956 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:28 +0800] "GET /springmvc_ssm/js/jquery.min.js HTTP/1.1" 200 86663 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:28 +0800] "GET /springmvc_ssm/js/vue.js HTTP/1.1" 200 311194 http-bio-8080-exec-8 7
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:28 +0800] "GET /springmvc_ssm/plugins/elementui/index.js HTTP/1.1" 200 494276 http-bio-8080-exec-9 7
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:53:29 +0800] "GET /springmvc_ssm/books HTTP/1.1" 200 468 http-bio-8080-exec-9 240
