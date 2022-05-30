@@ -1,1 +1,4 @@
 # ssm_springboot
+包含用ssm完成的一个小型图书管理界面
+以及用springboot完成的
+和一个mybatisplus的使用
